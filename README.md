@@ -1,34 +1,36 @@
-# Bonjour, je suis BISSILA Gloire
+# BISSILA Gloire
 
-Étudiant en B2 IA – Épi Biostatistique, IA & Épidémiologie.
+Étudiant en Master 2 Santé Publique, parcours B2IA-EPI,  
+à l'Université Claude Bernard Lyon 1.
 
-Je m’intéresse à la biostatistique, à l’analyse de données, à l’intelligence
-artificielle et à la recherche en santé.
+Je m'intéresse à la biostatistique, à l'épidémiologie, à l'analyse de données
+et à la recherche clinique.
 
-Je cherche actuellement un stage pour mettre en pratique mes connaissances,
-développer mes compétences et travailler sur des projets concrets.
+> **Recherche d'un stage de 6 mois à partir de février 2027**  
+> en biostatistique, épidémiologie, inférence causale ou data science.
 
 ## Compétences
 
-- Excel — analyse et traitement des données
-- R — analyse statistique
-- Python — programmation et analyse de données
-- Git & GitHub — gestion de projets
-- GitHub Copilot — assistance au développement
+- **Biostatistique & épidémiologie** : régression, modèles linéaires et mixtes,
+  données longitudinales, analyse de survie, recherche clinique
+- **Inférence causale** : transportabilité des effets, généralisation des effets
+- **Analyse de données** : R, Python, SQL, SAS, Excel
+- **Outils** : Git, GitHub, REDCap, DHIS2
 
 ## Projets
 
-Je travaille progressivement sur des projets en analyse de données,
-statistiques et intelligence artificielle appliquée à la santé.
+Je partage ici mes projets et travaux en biostatistique,
+analyse de données et épidémiologie.
 
-##  Apprentissage continu
+## Formation
 
-J'apprends et je pratique chaque jour afin de renforcer mes compétences, découvrir de nouveaux outils et améliorer ma capacité à résoudre des problèmes concrets.
+**Master Santé Publique — parcours B2IA-EPI**  
+Université Claude Bernard Lyon 1 — 2025–2027
 
-##  Mon objectif
+**Licence Santé Publique / Statistiques**  
+Université Marien NGOUABI — 2020–2023
 
-Trouver un **stage** qui me permettra de mettre mes connaissances en pratique, d'apprendre auprès de professionnels et de contribuer à des projets concrets en **biostatistique, analyse de données, IA ou santé**.
+## Contact
 
-## 🔗 Me retrouver
-
--  [LinkedIn](https://www.linkedin.com/in/gloire-excel-bissila-352313246/)
+Lyon, France  
+gloire.bissila@etu.univ-lyon1.fr
